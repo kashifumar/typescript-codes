@@ -54,3 +54,4 @@ function number_to_words(num: number): string {
   }
   return words.join(' ') + ' Only';
 }
+export { number_to_words };
