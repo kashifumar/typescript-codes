@@ -2,6 +2,7 @@
  * @date December 13, 2022
  * @version Version 1.0
  * @author Kashif Umar <Kashif.TLB@gmail.com>
+ * @description Call this method to convert number to words
  */
 function number_to_words(num: number): string {
 
