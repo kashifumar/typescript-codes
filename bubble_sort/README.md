@@ -31,3 +31,6 @@ nodemon does not require any additional changes to your code or method of develo
 Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
 
 ## These two are configured in package.json in the scripts section
+
+## https://www.linkedin.com/in/kashif-umar/
+## https://twitter.com/kashif_umar
